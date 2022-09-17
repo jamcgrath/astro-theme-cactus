@@ -1,33 +1,25 @@
 ---
 layout: "@/layouts/BlogPost"
-title: My Second Post
-publishDate: 12 June 2022
-description: It's another post by me.
-tags: ["example", "blog"]
-value: 128
+title: Leave a Message After the beep.
+publishDate: 17 September 2022
+description: Hello! Hello god are you there???  
+tags: ["god"]
 ---
-import { Code } from "astro/components";
 
+## I finally believe in god.
 
-## This is so cool!
+If you know me then you know how I feel about god. I'm like Salieri in the movie Amadeus. 
 
-Do variables work {frontmatter.value * 2}?
+> From now on we are enemies, You and I. ... Because You are unjust, unfair, unkind I will block You, I swear it.
 
-```js
-// Example JavaScript
+Let's not go into the reason as to why I feel this way. I used to be, you know, a god fearing christian guy. But that's the way it goes. So I went from being down with christianity to thinking it's the scourge of the world. 
 
-const x = 7;
-function returnSeven() {
-	return x;
-}
-```
+I know you are thinking, Rum Dum you wrote above you finally believe in god but you contradict yourself and say you and god are enemies or maybe even frenimies?  My reply to that is yes and no! 
 
-or 
+So let's get to explaining this god business from my view. So if you have seen from the very post on here, I believe I/we am/are the universe. So everything in the universe is a product of the universe. If we are the universe and some incarnation of the universe decided a long time ago that they believe there is a god, then I can get down with that idea. See what I did there? I can believe in the idea of believing in god(s). Seriously why not. It seems totally reasonable. Whatever reason you have for believing in god works for me. I still don't believe and unlike the X-files I don't care to want to. 
 
-<Code code={`// Example JavaScript
+So to recap. The universe decided that it wants to create the idea of god. I'm cool with that. 
 
-const x = 7;
-function returnSeven() {
-	return x;
-}
-`} lang="js" wrap theme="dracula" />
+You might be questioning what do I believe in if I don't believe in god. Well that should be pretty obvious by now. I believe in the universe and all that comes with that. 
+
+P.S. you can exchange god for universe. 
